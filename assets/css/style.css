@@ -1,0 +1,50 @@
+body {
+    background-image: url("../images/country-quilt.png");
+}
+
+.press {
+    color: darkgreen;
+    font-style: italic;
+}
+
+.content {
+    background-color: white;
+    height:400px;
+}
+
+#mystery-word {
+    font-size: 30px;
+    font-weight: bold;
+    color: green;
+}
+
+.header {
+    color: darkgreen;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#letters-guessed {
+    border: solid darkred 2px;
+}
+
+section {
+    height: 100%;
+    padding:10px;
+}
+
+.row2 {
+    height: 33%;
+    color: darkred;
+}
+
+#outcome {
+    size: 24px;
+    background-color: darkgreen;
+    color: white;
+    font-weight: bold;
+}
