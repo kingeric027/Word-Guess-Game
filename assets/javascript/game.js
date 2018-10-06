@@ -92,7 +92,7 @@ $(document).ready(function() {
             console.log(guesses_remaining);
             if(guesses_remaining==0){
                 $("#my-img").attr('src',"assets/images/cutler.png");
-                $("#outcome").text("Looser!");
+                $("#outcome").text("Loser!");
             }
 
         } 
