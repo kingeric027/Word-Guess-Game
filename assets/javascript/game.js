@@ -11,6 +11,7 @@ for(i=0; i<word.length; i++){
     word_fill.push("_");
 };
 
+
 function index(x){
     for(var i=0; i<word.length;i++) {
         if (word[i] === x){
